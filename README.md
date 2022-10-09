@@ -20,3 +20,6 @@ Azure Static Web Apps is a service that automatically builds and deploys full st
 
 # Azure Hosting link
     https://lemon-pond-07e765710.1.azurestaticapps.net
+        
+# Project Demo Video URL
+    https://drive.google.com/file/d/10zBq2QLaktCdT3QEpxNHXc_2SUzUjdqQ/view?usp=sharing
